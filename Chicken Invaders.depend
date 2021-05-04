@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1619418880 source:e:\chicken invaders\base.cpp
+	"base.h"
+
+1619418880 e:\chicken invaders\base.h
+	"common.h"
+
+1619449884 e:\chicken invaders\common.h
+	<vector>
+	<string>
+	<SDL.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+
+1619443503 source:e:\chicken invaders\common.cpp
+
+1619421043 source:e:\chicken invaders\bullet.cpp
+	"bullet.h"
+
+1619441738 e:\chicken invaders\bullet.h
+	"base.h"
+	"common.h"
+
+1619419652 source:e:\chicken invaders\explosion.cpp
+	"Explosion.h"
+
+1619419669 e:\chicken invaders\explosion.h
+	"base.h"
+	"common.h"
+
+1619443335 source:e:\chicken invaders\boss.cpp
+	"Boss.h"
+
+1619419851 source:e:\chicken invaders\text.cpp
+	"Text.h"
+
+1619441738 e:\chicken invaders\text.h
+	"base.h"
+	"common.h"
+
+1619443384 source:e:\chicken invaders\gift.cpp
+	"Gift.h"
+
+1619443377 e:\chicken invaders\gift.h
+	"common.h"
+	"base.h"
+
+1619420036 source:e:\chicken invaders\chicken.cpp
+	"chicken.h"
+
+1619419970 e:\chicken invaders\chicken.h
+	<vector>
+	"common.h"
+	"base.h"
+	"bullet.h"
+	"Explosion.h"
+
+1619443335 e:\chicken invaders\boss.h
+	<vector>
+	"common.h"
+	"base.h"
+	"bullet.h"
+	"Explosion.h"
+
+1619448557 source:e:\chicken invaders\main.cpp
+	"game_management.h"
+
+1619539557 e:\chicken invaders\game_management.h
+	"Common.h"
+	"base.h"
+	"space_ship.h"
+	"Chicken.h"
+	"Explosion.h"
+	"Gift.h"
+	"Text.h"
+	"Boss.h"
+
+1619440744 e:\chicken invaders\space_ship.h
+	<vector>
+	"common.h"
+	"base.h"
+	"bullet.h"
+
+1619440948 source:e:\chicken invaders\space_ship.cpp
+	"space_ship.h"
+
+1619539561 source:e:\chicken invaders\game_management.cpp
+	"game_management.h"
+
