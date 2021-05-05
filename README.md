@@ -8,10 +8,9 @@
 - Nguồn âm thanh : https://www.freesoundeffects.com/free-sounds/explosion-10070/0/tot_sold/20/1/ . 
 - Nguồn ảnh : tự lấy trên google về làm .
 + Mô tả về game:
+- Game có menu, có chơi lại, đầy đủ các tính năng của 1 game
 - Đạn: có 3 loại, thay đổi đạn bằng cách đợi quà rồi ăn, mỗi loại đạn có 1 đặc điểm khác nhau và âm thanh khác nhau
 - đạn đỏ: tốc chậm, dam trung bình 
 - đạn xanh: tốc trung bình, dam tốt
 - đạn vàng: tốc nhanh, dam yếu
 - Gà: khi bị bắn sẽ kêu nhiều kiểu tiếng
-- Boss gà to và bắn trứng khổng lồ
-- và nhiều thứ khác
